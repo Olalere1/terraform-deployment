@@ -1,5 +1,5 @@
 # Defining Key Name for connection
 variable "keyname" {
-  default     = "Olalere-keypair" 
+  default     = "Jenkinplease" 
   description = "Name of AWS key pair"
 }
